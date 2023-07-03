@@ -1,3 +1,6 @@
+#프로그래머스 카카오톡 이모티콘 문제를 직접 푼 것이다.
+#문제 출처: https://school.programmers.co.kr/learn/courses/30/lessons/150368
+
 from itertools import product
 
 def countMoney(users, emoticons, sales): #세일에 따른 구독자와 판매액 계산을 해주는 함수
